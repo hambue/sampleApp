@@ -9,3 +9,6 @@ This was written in SublimeText 3
 
 ## Final test on BashOnUbuntuOnWindows
 This was written after switching to ssh.
+
+## Test of colors in powershell
+bla
