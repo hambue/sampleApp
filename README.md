@@ -11,4 +11,4 @@ This was written in SublimeText 3
 This was written after switching to ssh.
 
 ## Test of colors in powershell
-bla
+a new line
